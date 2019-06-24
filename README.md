@@ -6,4 +6,6 @@ This is the code that I covered in my YouTube video, [**"How to Make Toasts in A
 - Subscribe to IJ Apps: [**IJ Apps YouTube Channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg)
 - [**My Cool Personal Projects**](https://github.com/ishaanjav): Username - ishaanjav
 
-[![YouTube thumbnail of video](ShortBits13 - Tosats.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![YouTube thumbnail of video](ShortBit13 - Tosats.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+
+[![YouTube thumbnail of video](ShortBit13 - Tosats.jpg)](https://www.youtube.com/watch?v=XickVmsDFX4)
