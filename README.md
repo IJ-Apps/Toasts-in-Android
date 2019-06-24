@@ -4,7 +4,8 @@ This is the code that I covered in my YouTube video, [**"How to Make Toasts in A
 - [**Get the Code**](https://github.com/IJ-Apps/Toasts-in-Android/blob/master/Toasts.java)
 - [**Video Link**](https://www.youtube.com/watch?v=XickVmsDFX4)
 - Subscribe to IJ Apps: [**IJ Apps YouTube Channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg)
-- [**My Cool Personal Projects**](https://github.com/ishaanjav): Username - ishaanjav
+
+## [**My Cool Personal Projects**](https://github.com/ishaanjav): Username - ishaanjav
 
 For more cool and complex projects using tools such as the Microsoft Face API, Kairos Facial Recognition API, and Google Cloud Platform, check out [**my other GitHub account**](https://github.com/ishaanjav) with these cool repositories.
 
