@@ -8,4 +8,4 @@ This is the code that I covered in my YouTube video, [**"How to Make Toasts in A
 
 [![YouTube thumbnail of video](ShortBit13 - Tosats.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 
-[![YouTube thumbnail of video](ShortBit13 - Toasts.png)](https://www.youtube.com/watch?v=XickVmsDFX4)
+![YouTube thumbnail of video](ShortBit13 - Toasts.png)
