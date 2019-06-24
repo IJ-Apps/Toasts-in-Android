@@ -6,6 +6,6 @@ This is the code that I covered in my YouTube video, [**"How to Make Toasts in A
 - Subscribe to IJ Apps: [**IJ Apps YouTube Channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg)
 - [**My Cool Personal Projects**](https://github.com/ishaanjav): Username - ishaanjav
 
-[![YouTube thumbnail of video](ShortBit13 - Tosats.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![YouTube thumbnail of video](https://github.com/IJ-Apps/Toasts-in-Android/blob/master/ShortBit13%20-%20Toasts.PNG)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 
 ![YouTube thumbnail of video](ShortBit13 - Toasts.png)
